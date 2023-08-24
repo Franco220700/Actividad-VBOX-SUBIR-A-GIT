@@ -1,0 +1,13 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+¿Qué tipo de máquina virtual soporta virtualBox?. 
+¿Qué función cumple el hypervisor en la virtualización?
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+1- mientras que muchos lenguajes de programación pueden ser portados y utilizados en diferentes sistemas operativos, la disponibilidad y la viabilidad dependen de una serie de factores, incluida la compatibilidad con la plataforma, las dependencias, las herramientas de desarrollo y las decisiones de diseño.
+2-En resumen, VirtualBox es un software versátil de virtualización que puede ejecutar una amplia gama de sistemas operativos y configuraciones en máquinas virtuales. Sin embargo, es importante verificar la documentación y los requisitos específicos de VirtualBox para asegurarte de que la máquina anfitriona tenga el hardware y las capacidades necesarias para admitir los tipos de máquinas virtuales que deseas utilizar.
+3-En resumen, el hipervisor es un componente crucial en la virtualización, ya que posibilita la creación, gestión y ejecución de máquinas virtuales en un entorno compartido, permitiendo la consolidación de recursos, la optimización del hardware y la flexibilidad en la administración de sistemas.
+4-En general, las máquinas virtuales están diseñadas para proporcionar un alto grado de aislamiento y separación, lo que minimiza la posibilidad de que un problema en una máquina virtual afecte directamente a otras. Sin embargo, es importante tener en cuenta que la administración y configuración adecuadas son esenciales para mantener este nivel de aislamiento. Además, es recomendable implementar políticas y medidas de seguridad adecuadas para mitigar cualquier riesgo potencial y garantizar la continuidad del servicio en un entorno de máquinas virtuales.
+
+
+
+
